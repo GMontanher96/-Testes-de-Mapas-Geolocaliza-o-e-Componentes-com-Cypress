@@ -1,0 +1,18 @@
+{
+  "create": {
+    "name": "orfanato esperança",
+    "description": "este orfanato oferece um ambiente acolhedor e seguro para crianças em situação de vulnerabilidade, com suporte educacional e psicológico. as crianças participam de atividades que promovem o desenvolvimento físico e emocional, ajudando na reintegração social.",
+    "opening_hours": "segunda a sexta, 08:00 - 18:00",
+    "open_on_weekends": "Sim"
+  },
+  "other": {
+    "name": "lar das crianças",
+    "description": "focado no bem-estar integral das crianças, o lar das crianças proporciona abrigo, alimentação e apoio emocional. as crianças têm acesso a atividades recreativas e educacionais que as ajudam a superar desafios e a desenvolver habilidades sociais.",
+    "opening_hours": "segunda a sábado, 09:00 - 17:00"
+  },
+  "other2": {
+    "name": "casa de acolhida luz do amanhã",
+    "description": "a casa de acolhida luz do amanhã atende crianças de até 12 anos, proporcionando um ambiente de segurança e acolhimento. com uma equipe multidisciplinar, busca promover a reintegração familiar ou a adoção para garantir o bem-estar das crianças.",
+    "opening_hours": "todos os dias, 08:00 - 20:00"
+  }
+}
